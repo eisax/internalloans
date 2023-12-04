@@ -5,8 +5,8 @@ Welcome to the Loans System PHP project! Follow these steps to get started:
 ## 1. Clone the Repository
 bash
 Copy code
-git clone https://github.com/eosax/internalloans.git
-cd loans-system
+git clone https://github.com/eisax/internalloans.git
+cd internalloans
 ## 2. Extract Database
 In the root folder, extract the database.zip file. This contains the necessary database files for the system.
 
